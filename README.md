@@ -1,1 +1,2 @@
-# lab-o-lang.github.io
+# Lab-o-Lang
+## Laboratory of Languages
